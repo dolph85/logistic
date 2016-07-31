@@ -1,0 +1,2 @@
+# logistic
+logistc - 1
